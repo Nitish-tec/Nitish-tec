@@ -1,4 +1,4 @@
-## Hi # Hi, I'm Nitish Kumar 👋
+## Hi, I'm Nitish Kumar 👋
 
 ## Linux System Administrator | AWS Cloud Enthusiast | RHCSA Certified
 
